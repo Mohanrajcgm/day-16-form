@@ -1,0 +1,18 @@
+
+.rating{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr)
+}
+
+.checked {
+    color: orange;
+  }
+  button{
+      padding: 10px;
+  }
+  h3{
+      font-weight: bolder;
+  }
+ label{
+    padding-right: 160px;
+ }
